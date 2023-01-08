@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 dodaje tejst 2222221
+=======
+dodaje tejst zmieniam3331
+>>>>>>> branch-conflict2
